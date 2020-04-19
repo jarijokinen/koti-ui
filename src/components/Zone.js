@@ -5,10 +5,10 @@ import axios from 'axios';
 import './Zone.css';
 
 const displayNames = {
-  livingroom: 'Living Zone',
+  livingroom: 'Living Room',
   bedroom: 'Bedroom',
   office: 'Office',
-  guestroom: 'Guest Zone',
+  guestroom: 'Guest Room',
   bathroom: 'Bathroom',
   sauna: 'Sauna'
 };
