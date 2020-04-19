@@ -1,0 +1,16 @@
+.Zone {
+  background: #f9f9f9;
+  float: left;
+  padding: 20px;
+  margin: 10px;
+  max-width: 300px;
+  width: 100%;
+}
+.Zone-name {
+  font-size: 22px;
+  font-weight: 600;
+  margin: 0 0 10px 0;
+}
+.Zone-temperature {
+  display: block;
+}
